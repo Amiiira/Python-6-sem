@@ -2,7 +2,7 @@
 
 ## Вступление:
 Тема: Инструмент для управления зависимостями poetry и его использование в CI/CD-пайплайнах
-[Ссылка на скринкаст](https://disk.yandex.ru/i/Di1iM7V0xFZ5_Q)
+[Ссылка на скринкаст](https://disk.yandex.ru/i/Di1iM7V0xFZ5_Q) - [Репозиторий проекта](https://github.com/Amiiira/poetry_cicd_project)
 
 ### Содержание репозитория:
 ***
